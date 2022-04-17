@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimatedApp</string>
+    <string name="button_show_fragment_text">FragmentA</string>
+    <string name="button_start_animation_text">Нажми на меня!</string>
+</resources>
